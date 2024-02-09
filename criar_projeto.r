@@ -1,0 +1,1 @@
+usethis::create_project('C:/Users/wagne/Documents/Faculdade/projeto-mapear')
