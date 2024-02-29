@@ -82,7 +82,7 @@ utf
   
 ### Laboratório de Laticíneos &#129472;
   
-- Responsável: XXX XXXXX
+
 
 <!--# mapa-->
 ```{r}
@@ -286,7 +286,7 @@ utf
 
 
 ### DESEG
--Departamento apagar
+
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -656,7 +656,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### DERdi
+### DERDI
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -1535,7 +1535,7 @@ utf
 ```
 
 
-### Laboraório de Sistemas Térmicos e Sala de Apoio
+### Laboratório de Sistemas Térmicos e Sala de Apoio
 
 
 ```{r}
@@ -1554,7 +1554,7 @@ utf
 ```
 
 
-### Laboraório de Hidráulica e Pneumática
+### Laboratório de Hidráulica e Pneumática
 
 
 ```{r}
@@ -1589,7 +1589,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Laboraório de Química 01
+### Laboratório de Química 01
 
 
 ```{r}
@@ -1610,7 +1610,7 @@ utf
 
 
 
-### Laboraório de Química 03
+### Laboratório de Química 03
 
 
 ```{r}
@@ -1628,7 +1628,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Laboraório de Química 02
+### Laboratório de Química 02
 
 
 ```{r}
@@ -1647,7 +1647,7 @@ utf
 ```
 
 
-### Laboraório de Cromatografia 
+### Laboratório de Cromatografia 
 
 
 ```{r}
@@ -1683,7 +1683,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Laboraório de Espectometria e Laboratório de Eletroanalise
+### Laboratório de Espectometria e Laboratório de Eletroanalise
 
 
 ```{r}
