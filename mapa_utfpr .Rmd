@@ -126,6 +126,7 @@ utf
 ### DIRPPG
 
 - Diretoria de pesquisa e pós-graduação
+ Para saber as competências entre em :https://www.utfpr.edu.br/estrutura/pesquisa-e-pos-graduacao/competencias
   Número: (43) 3376-9261
   Email: dirppg-ld@utfpr.edu.br
   Horário de atendimento: Segunda à sexta das 08h00 às 12h30 e das 13h30 às 17h00
@@ -204,9 +205,16 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### COGETI
+### COGETI 	&#128246;
+
 -Cordenação de Gestão de Tecnologia de Informação
- Número: 43 3315-6115
+A Coordenadoria de Gestão de Tecnologia da Informação é responsável em prover aos usuários do Campus a qualidade no serviço de Tecnologia da Informação na utilização da rede e Internet.
+ Para saber mais competências entre em: https://www.utfpr.edu.br/estrutura/pesquisa-e-pos-graduacao/competencias
+ Coordenador: Fernando Toshiyuki Fujikawa - (43) 3315-6115 - fujikawa@utfpr.edu.br
+ Fabio Ogliari - (43) 3315-6115
+ Frederico Figueiredo Siena - (43) 3315-6115
+ Thiago Prado De Campos - (43) 3315-6115
+
 ```{r}
 # Initialize and assign m as the leaflet object
 utf <- leaflet() %>%
@@ -226,7 +234,8 @@ utf
 ### COGERH
 
 -Cordenadoria de Gestão de Recursos Humanos 
- Número:(43) 3376-9281
+ Para saber as competências entre em:https://www.utfpr.edu.br/estrutura/gestao-de-pessoas/competencias-dirgep-cogerh
+ Contato:cogerh-ld@utfpr.edu.br - (43) 3315-6119
  Horário:Segunda à sexta 08h00 às 11h00 e das 13h00 às 17h00
 
 ```{r}
@@ -246,6 +255,7 @@ utf
 
 ### FUNTEF
 
+
 ```{r}
 # Initialize and assign m as the leaflet object
 utf <- leaflet() %>%
@@ -263,7 +273,9 @@ utf
 
 
 ### DIRPLAD, DEMAP, DEOFI e DEPRO
-  Email: deofi-ld@utfpr.edu.br
+Contatos:
+   dirplad-ld@utfpr.edu.br -  (43) 3315-6113 - de segunda a sexta, das  8h às 12h e das 13h às 17h
+   Para acessar as competências:Do dirplad https://www.utfpr.edu.br/estrutura/proplad/plad/diretoria-de-planejamento-e-administracao
 
 
 ```{r}
@@ -343,7 +355,7 @@ utf
 ```
 
 
-### Fragmentadora de papel
+### Fragmentadora de papel &#128386;
 
 
 ```{r}
@@ -382,7 +394,7 @@ utf
 ```
 
 
-### Laboratório de análise sesorial
+### Laboratório de análise sensorial
  
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -399,7 +411,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Laboratório de Análise de Alimentos
+### Laboratório de Análise de Alimentos &#127857;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -417,7 +429,7 @@ utf
 ```
 
 
-### Laboratório de metódos intrumentais
+### Laboratório de metódos intrumentais &#128736;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -435,7 +447,7 @@ utf
 ```
 
 
-### Laboratório de microbiologia
+### Laboratório de microbiologia &#129515;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -453,7 +465,7 @@ utf
 ```
 
 
-### Laboratório de bioquimica
+### Laboratório de bioquimica &#129514;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -487,7 +499,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Laboratório de biologia e ecologia
+### Laboratório de biologia e ecologia &#127793;
 
 
 ```{r}
@@ -721,7 +733,7 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>DEPED, NAI e NEUENS</b>
+             popup="<b>DEPED, NAI e NUENS</b>
              <br><a href='fotos-B/primeiro/deped_nai_nuens.jpg'>-Sala106</a>")
 
 utf 
