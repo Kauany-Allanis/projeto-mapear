@@ -180,14 +180,14 @@ utf <- leaflet() %>%
   setView(lng=-51.114540, lat=-23.3075632, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.114540, lat=-23.3075632, 
-             popup="<b>PPGATL</b>
+             popup="<b>PPGTAL</b>
              <br><a href='fotos-A/segundo/PPGTAL.jpg'>-Sala201</a>")
 
 utf 
 ```
 
 
-### Data center
+### Data center	&#128238;
 
 
 ```{r}
@@ -394,7 +394,7 @@ utf
 ```
 
 
-### Laboratório de análise sensorial
+### Laboratório de Análise Sensorial
  
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -405,7 +405,7 @@ utf <- leaflet() %>%
   setView(lng=-51.114540, lat=-23.3075632, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.114540, lat=-23.3075632, 
-             popup="<b>Laboratório de análise sensorial</b>
+             popup="<b>Laboratório de Análise Sensorial</b>
              <br><a href='fotos-A/terceiro/lab_analise_sensorial.jpg'>-Sala302</a>")
 
 utf 
@@ -429,7 +429,7 @@ utf
 ```
 
 
-### Laboratório de metódos intrumentais &#128736;
+### Laboratório de Metódos Intrumentais &#128736;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -440,14 +440,14 @@ utf <- leaflet() %>%
   setView(lng=-51.114540, lat=-23.3075632, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.114540, lat=-23.3075632, 
-             popup="<b>Laboratório de métodos instrumentais</b>
+             popup="<b>Laboratório de Métodos Instrumentais</b>
              <br><a href='fotos-A/terceiro/lab_met_instrumentais.jpg'>-Sala304</a>")
 
 utf 
 ```
 
 
-### Laboratório de microbiologia &#129515;
+### Laboratório de Microbiologia &#129515;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -458,14 +458,14 @@ utf <- leaflet() %>%
   setView(lng=-51.114540, lat=-23.3075632, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.114540, lat=-23.3075632, 
-             popup="<b>Laboratório de microbiologia</b>
+             popup="<b>Laboratório de Microbiologia</b>
              <br><a href='fotos-A/terceiro/lab_microbiologia.jpg'>-Sala305</a>")
 
 utf 
 ```
 
 
-### Laboratório de bioquimica &#129514;
+### Laboratório de Bioquimica &#129514;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -476,13 +476,13 @@ utf <- leaflet() %>%
   setView(lng=-51.114540, lat=-23.3075632, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.114540, lat=-23.3075632, 
-             popup="<b>Laboratório de bioquimica</b>
+             popup="<b>Laboratório de Bioquimica</b>
              <br><a href='fotos-A/terceiro/lab_biioquimica.jpg'>-Sala306</a>")
 
 utf 
 ```
 
-### Sala de Apoio
+### Sala de apoio
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -493,13 +493,13 @@ utf <- leaflet() %>%
   setView(lng=-51.114540, lat=-23.3075632, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.114540, lat=-23.3075632, 
-             popup="<b>Sala de Apoio</b>
+             popup="<b>Sala de apoio</b>
              <br><a href='fotos-A/terceiro/apoio_07.jpg'>-Sala307</a>")
 
 utf 
 ```
 
-### Laboratório de biologia e ecologia &#127793;
+### Laboratório de Biologia e Ecologia &#127793;
 
 
 ```{r}
@@ -511,7 +511,7 @@ utf <- leaflet() %>%
   setView(lng=-51.114540, lat=-23.3075632, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.114540, lat=-23.3075632, 
-             popup="<b>Laboratório de biologia e ecologia</b>
+             popup="<b>Laboratório de Biologia e Ecologia</b>
              <br><a href='fotos-A/terceiro/lab_biologia_ecologia.jpg'>-Sala308</a>")
 
 utf 
@@ -524,7 +524,7 @@ utf
 
 ## Térreo
 
-### Laboratório de polimeros
+### Laboratório de Polimeros &#129533;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -535,14 +535,14 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de polimeros</b>
+             popup="<b>Laboratório de Polimeros</b>
              <br><a href='fotos-B/terreo/lab_polimeros.jpg'>-Sala001</a>")
 
 utf 
 ```
 
 
-### Laboratório de cerâmica
+### Laboratório de Cerâmica  &#128705;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -553,14 +553,14 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de cerâmica</b>
+             popup="<b>Laboratório de Cerâmica</b>
              <br><a href='fotos-B/terreo/lab_ceramica.jpg'>-Sala002</a>")
 
 utf 
 ```
 
 
-### Laboratório de apoio
+### Laboratório de Apoio
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -571,13 +571,13 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de apoio</b>
+             popup="<b>Laboratório de Apoio</b>
              <br><a href='fotos-B/terreo/lab_apoio.jpg'>-Sala003</a>")
 
 utf 
 ```
 
-### Laboratório de análise de materiais
+### Laboratório de Análise de Materiais
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -588,14 +588,14 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de análise de materiais</b>
+             popup="<b>Laboratório de Análise de Materiais</b>
              <br><a href='fotos-B/terreo/lab_analise.jpg'>-Sala004</a>")
 
 utf 
 ```
 
 
-### Laboratório de metais
+### Laboratório de Metais 	&#128295;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -606,14 +606,14 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de metais</b>
+             popup="<b>Laboratório de Metais</b>
              <br><a href='fotos-B/terreo/lab_metais.jpg'>-Sala005</a>")
 
 utf 
 ```
 
 
-### Laboratório de ensaios
+### Laboratório de Ensaios
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -624,7 +624,7 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de ensaios</b>
+             popup="<b>Laboratório de Ensaios</b>
              <br><a href='fotos-B/terreo/lab_polimeros.jpg'>-Sala006</a>")
 
 utf 
@@ -794,7 +794,7 @@ utf
 
 ## 3° andar
 
-### Laboratório de tecnologia de conversão de energia
+### Laboratório de Tecnologia de Conversão de Energia
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -805,13 +805,13 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de tecnologiade conversão de energia</b>
+             popup="<b>Laboratório de Tecnologiade de Conversão de Energia</b>
              <br><a href='fotos-B/terceiro/lab_tecnologia_b.jpg'>-Sala301</a>")
 
 utf 
 ```
 
-### Laboratório de química 
+### Laboratório de Química 
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -822,13 +822,13 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de química</b>
+             popup="<b>Laboratório de Química</b>
              <br><a href='fotos-B/terceiro/lab_qui_b302.jpg'>-Sala302</a>")
 
 utf 
 ```
 
-### Laboratório de química
+### Laboratório de Química
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -839,14 +839,14 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de química</b>
+             popup="<b>Laboratório de Química</b>
              <br><a href='fotos-B/terceiro/lab_qui_4_b.jpg'>-Sala303</a>")
 
 utf 
 ```
 
 
-### Laboratório de química
+### Laboratório de Química
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -857,14 +857,14 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de química</b>
+             popup="<b>Laboratório de Química</b>
              <br><a href='fotos-B/terceiro/lab_qui_5_b.jpg'>-Sala304</a>")
 
 utf 
 ```
 
 
-### Laboratório de química
+### Laboratório de Química
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -875,14 +875,14 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de química</b>
+             popup="<b>Laboratório de Química</b>
              <br><a href='fotos-B/terceiro/lab_qui4_305.jpg'>-Sala305</a>")
 
 utf 
 ```
 
 
-### Laboratório de química
+### Laboratório de Química
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -893,7 +893,7 @@ utf <- leaflet() %>%
   setView(lng=-51.1147880, lat=-23.3074732, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.1147880, lat=-23.3074732, 
-             popup="<b>Laboratório de química</b>
+             popup="<b>Laboratório de Química</b>
              <br><a href='fotos-B/terceiro/lab_qui5_306.jpg'>-Sala306</a>")
 
 utf 
@@ -903,7 +903,7 @@ utf
 <!--# seção-->
 # BLOCO F
 
-### Laboratório de reagentes químicos e Almoxarifado
+### Laboratório de Reagentes Químicos e Almoxarifado
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -914,13 +914,13 @@ utf <- leaflet() %>%
   setView(lng=-51.113749, lat=-23.307118, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.113749, lat=-23.307118, 
-             popup="<b>Laboratório de reagentes químicos e almoxarifado</b>
+             popup="<b>Laboratório de Reagentes Químicos e Almoxarifado</b>
              <br><a href='fotos-F/reagentes_almoxarifado.jpg'>-Salas 001 e 002</a>")
 
 utf 
 ```
 
-### Depósito de materiais e Patrimônio
+### Depósito de Materiais e Patrimônio
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -931,7 +931,7 @@ utf <- leaflet() %>%
   setView(lng=-51.113749, lat=-23.307118, zoom = 40) %>%
   # Now, add a marker with a popup, 
   addMarkers(lng=-51.113749, lat=-23.307118, 
-             popup="<b>Depósito de materiais e Patrimônio</b>
+             popup="<b>Depósito de Materiais e Patrimônio</b>
              <br><a href='fotos-F/deposito_patrimonio.jpg'>-Salas 003 e 004</a>")
 
 utf 
@@ -943,7 +943,7 @@ utf
 ## Térreo 
 
 
-### Laboratório de Hidráulica e Laboratório de Solos
+### Laboratório de Hidráulica &#128167; e Laboratório de Solos
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -960,7 +960,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Laboratório de Poluentes Atmosféricos
+### Laboratório de Poluentes Atmosféricos &#9925;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -1584,7 +1584,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Laboratório de Elétrica
+### Laboratório de Elétrica &#128268;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -1677,7 +1677,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Sala de professores e Sala de Técnicos
+### Sala de professores e Sala de técnicos
 
 
 ```{r}
@@ -1738,7 +1738,7 @@ utf
   
 
 <!--# Sub-seção-->
-### Sala de Professores-DAMAT e DAFIS
+### Sala de professores-DAMAT e DAFIS
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -1755,7 +1755,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Sala de Professores
+### Sala de professores
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -1772,7 +1772,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Sala de Professores-DAENP e NUAPE
+### Sala de professores-DAENP e NUAPE
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -1808,7 +1808,7 @@ utf
 
 
 
-### Sala de Professores-DAENP 
+### Sala de professores-DAENP 
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -1825,7 +1825,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Laboratório de Informática
+### Laboratório de Informática &#128187;
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -1842,7 +1842,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Laboratório de Pesquisa Operacional e Otimizaçaõ
+### Laboratório de Pesquisa Operacional e Otimização
 
 ```{r}
 # Initialize and assign m as the leaflet object
@@ -1859,7 +1859,7 @@ utf <- leaflet() %>%
 utf 
 ```
 
-### Laboratório de Informática
+### Laboratório de Informática &#128187;
 
 ```{r}
 # Initialize and assign m as the leaflet object
